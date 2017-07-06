@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ee99ee/coinmarketcap-scraper/issues"
   },
-  "homepage": "https://github.com/ee99ee/coinmarketcap-scraper#readme"
+  "homepage": "https://github.com/ee99ee/coinmarketcap-scraper#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "json2csv": "^3.8.0",
+    "request": "^2.81.0"
+  }
 }
